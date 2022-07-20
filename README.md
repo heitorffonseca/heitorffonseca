@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/heitorffonsecaa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorffonsecaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffonsecaa&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/heitorffonseca">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorffonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffonseca&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <br/>
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/heitorffonsecaa" target="_blank">
+  <a href="https://github.com/heitorffonseca" target="_blank">
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
          min-width="400px" 
          max-width="400px" 
