@@ -67,7 +67,8 @@
   <div align="center">
     Software Developer at <br/>
     <a href="https://kinglystudio.com.br/">
-      <img align="center" src="https://user-images.githubusercontent.com/97646358/151678979-4946851c-f399-4584-99b6-7fea4d7ba1ee.png" />
+      Kingly
+      <!--<img align="center" src="https://user-images.githubusercontent.com/97646358/151678979-4946851c-f399-4584-99b6-7fea4d7ba1ee.png" />-->
     </a>
   </div>
 </div>
