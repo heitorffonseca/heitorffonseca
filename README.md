@@ -1,4 +1,9 @@
-<div style="background-color:black;">
+<style>
+  .bg {
+    background-color: black
+  }
+</style>
+<div class="bg">
   <div align="center">
   <a href="https://github.com/heitorffonseca">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorffonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
